@@ -7,8 +7,8 @@ public class a1 {
     //  方法3个：（1）无参——宽、高默认值为1；（2）1个参数——宽、高均为参数值；（3）2个参数——宽、高各为参数值。
     //并对其进行测试
     public void a() {
-        int height = 1;
-        int width = 1;
+        int height =1;
+        int width =1;
         System.out.println("它的面积是：" + (height * width));
         System.out.println("它的周长是：" + (height + width) * 2);
     }
