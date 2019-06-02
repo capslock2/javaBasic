@@ -1,6 +1,6 @@
 package com.neuedu.May5_29;
 
-public class chart {
+public class Chart {
     private int r;
 
 

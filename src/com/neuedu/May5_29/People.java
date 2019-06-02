@@ -1,7 +1,7 @@
 package com.neuedu.May5_29;
 
 public class People extends Monkey{
-    public People(String s){
+    private People(String s){
         super(s);
     }
     public void think(){

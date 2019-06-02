@@ -7,6 +7,6 @@ public class E {
         People b=new People("小噬元兽");
         b.speak();
         b.think();
-  
+
     }
 }

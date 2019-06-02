@@ -1,6 +1,6 @@
 package com.neuedu.May5_29;
 
-public class spuare {
+public class Square {
     private  int width;
     public int getWidth() {
         return width;
